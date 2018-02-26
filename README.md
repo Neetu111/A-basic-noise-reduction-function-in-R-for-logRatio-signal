@@ -9,9 +9,9 @@ This indicates that we are having different range values for two different value
 3. For a certain level and a certain group we are given testSamole1 and testSample2 values.
 ```
 Example: 
-              chr	 start  end	    testSample1		    testSample2
-	Row 1:   	  1	   0	    29999	  0.17215987314604	0.931841373631194
-	Row 7452: 	2	   0	    29999	  0.170749928253841	0.563014312697292
+              chr	start	    end	    	  testSample1		testSample2
+Row 1:		1	   0	    29999	  0.17215987314604	0.931841373631194
+Row 7452: 	2	   0	    29999	  0.170749928253841	0.563014312697292
   ```
 4. Variance of both samples
 ```
