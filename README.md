@@ -36,7 +36,7 @@ There are many outliers. In other words, there is so much noise in this data.
 var(logratio.data$logratio)
 [1] 3.167599
 ```
-##Filtered LogRatio Signal
+## Filtered LogRatio Signal
 ![logratio filtered](https://user-images.githubusercontent.com/21276147/36692124-3b377bdc-1b5d-11e8-9eec-dec9ab1d3a8a.png)
 ```
 var(logratio.filter.data$logratio.filter)
